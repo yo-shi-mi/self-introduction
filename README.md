@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @yo-shi-mi
+- 👋 Hi, I’m Erin
 - 👀 I’m interested in dancing
-- 🌱 I’m currently learning data analyst
-- 💞️ I’m looking for a nice internship now
+- 🌱 I’m currently learning data analysis
+- 💞️ I’m looking for a nice internship 
 - 📫 How to reach me : erin001tw@gmail.com
 
 <!---
